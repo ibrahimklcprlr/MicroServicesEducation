@@ -3,3 +3,4 @@ Catalog Api =>5011
 Photo Api =>5012
 Basket Api =>5013
 Discount Api =>5014
+Order Api =>5015
